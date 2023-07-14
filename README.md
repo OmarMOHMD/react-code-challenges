@@ -1,8 +1,11 @@
 # react-code-challenges
+Guid :-
+/*to run the localhost */
 ```bash
 npm start
-``` 
-//to run the localhost 
+```
+<br>
+/*To shift between branches*/
 git checkout 
 01_01b          01_04e          01_08b          01_11e          origin/01_02e   origin/01_06b   origin/01_09e
 01_01e          01_05b          01_08e          FETCH_HEAD      origin/01_03    origin/01_06e   origin/01_10b
